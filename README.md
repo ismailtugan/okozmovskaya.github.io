@@ -2,7 +2,7 @@
 
 *About me*
 
-I am a future web-developer from Brussels, Belgium.\
+I am a future web-developer from Brussels, Belgium.  
 My way as web-developer begun in the [coding school Hack Your Future](https://hackyourfuture.be/) in 2020.
 
 I hope very soon I will be master in:
